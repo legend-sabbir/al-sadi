@@ -8,7 +8,7 @@ import{arr}from"./refrigeratorData.js";import{deepArr}from"./refrigeratorData.js
               <p class="net-volume">Net Volume: <span>${item.nVolume}</span></p>
             </div>
 
-           <img src="/refrigerator/img/${item.name.split("-")[0]}/${item.name}/logo.webp" alt="product-img" loading="${5<index?"lazy":""}">
+           <img src="/refrigerator/img/${item.name.split("-")[0]}/${item.name}/logo.webp" alt="product-img" loading="${5<index?"lazy":""}" height="410" width="330">
 
             <div class="product-bottom">
 
