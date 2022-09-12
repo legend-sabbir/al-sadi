@@ -1,6 +1,6 @@
 const footer = `<footer class="footer" id="contact">
     <div class="container">
-      <h1 class="title">Al-Sadi Electronics</h1>
+      <h1 class="title">Electro Al-Sadi</h1>
       <div class="contact-us">
         
         <div class="mobile-num contact-item">
